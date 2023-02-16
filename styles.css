@@ -1,9 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500&family=Dancing+Script:wght@700&family=Tillana&family=Varela+Round&display=swap');
-/* font-family: 'Cabin', sans-serif;
-font-family: 'Dancing Script', cursive;
-font-family: 'Tillana', cursive;
-font-family: 'Varela Round', sans-serif; */
+
 *{
     margin: 0;
     padding: 0;
@@ -14,10 +11,7 @@ font-family: 'Varela Round', sans-serif; */
 }
 body{
     background: #69d2e7;
-   /* background: -moz-linear-gradient(-45deg, #69d2e7 0%, #a7dbd8 25%, #e0e4cc 46%, #e0e4cc 54%, #f38630 75%, hsl(25, 95%, 65%) 100%);
-   background: -webkit-linear-gradient(-45deg, #69d2e7 0%,#a7dbd8 25%,#e0e4cc 46%,#e0e4cc 54%,#f38630 75%,#f8954e 100%);
-   background: linear-gradient(135deg, #69d2e7 0%,#a7dbd8 25%,#e0e4cc 46%,#e0e4cc 54%,#f38630 75%,#fc9a54 100%);
-   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#69d2e7', endColorstr='#fa6900',GradientType=1 ); */
+   
    }
 html {
     scroll-behavior: smooth;
